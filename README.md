@@ -20,6 +20,7 @@ Startup | Estágio | Site | Contato | O que faz (140 chars)? |
 ## Feira de Santana
 Startup | Estágio | Site | Contato | O que faz (140 chars)? |
  --- | --- | --- | --- | ---
+ Motim Apps | Embrionário | www.motimapps.com.br | contato@motimapps.com.br | Nós somos bons em criar ótimos mobile e web apps com qualidade, transparência e velocidade.
  
  ## Salvador
 Startup | Estágio | Site | Contato | O que faz (140 chars)? |
