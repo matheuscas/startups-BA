@@ -12,3 +12,15 @@ E se você acha que é uma startup e que não se encaixa nessa definição,
 abre uma issue e vamos discutir e melhorar essa definição. ;)
 
 [1] [O que é uma startup?](http://exame.abril.com.br/pme/o-que-e-uma-startup/)
+
+## Alagoinhas
+Startup | Estágio | Site | Contato | O que faz (140 chars)? |
+ --- | --- | --- | --- | ---
+
+## Feira de Santana
+Startup | Estágio | Site | Contato | O que faz (140 chars)? |
+ --- | --- | --- | --- | ---
+ 
+ ## Salvador
+Startup | Estágio | Site | Contato | O que faz (140 chars)? |
+ --- | --- | --- | --- | ---
