@@ -22,7 +22,7 @@ Startup | Estágio | Site | Contato | O que faz (140 chars)? |
  --- | --- | --- | --- | ---
  Motim Apps | Embrionário | www.motimapps.com.br | contato@motimapps.com.br | Nós somos bons em criar ótimos mobile e web apps com qualidade, transparência e velocidade.
  App2Sales | Tração | www.app2sales.com.br | hello@app2sales.com | Crie seu aplicativo em 10 minutos. É simples e divertido ter seu aplicativo. Alcance 100% da sua lista de contatos através de notificações. 
- PowerZAP | Tração | www.powerzap.com.br | contato@powerzap.com.br | Sistema para atendimento omni-channel.
+ PowerZAP | Tração | www.powerzap.com.br | contato@powerzap.com.br | Trabalhamos juntos para aumentar suas vendas através de diversos canais utilizando apenas uma ferramenta.
 
 ## Salvador
 Startup | Estágio | Site | Contato | O que faz (140 chars)? |
